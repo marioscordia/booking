@@ -1,0 +1,12 @@
+{
+  "port": ":8080",
+  "secret": "baf3fbe2-23b0-4425-b826-f53b8602c863",
+  "db": {
+    "uri": "mongodb://localhost:27017",
+    "name": "hotel-reservation",
+    "user": "users",
+    "hotel": "hotels",
+    "room": "rooms",
+    "book": "bookings"
+  }
+}
